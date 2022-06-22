@@ -1,6 +1,9 @@
 # MATP-with-HEAT
 This repo contains the code for our paper entitled "Multi-Agent Trajectory Prediction with Heterogeneous Edge-Enhanced Graph Attention Network", IEEE T-ITS, 2022.
 
+## Install dependencies via pip.
+`pip install -r requirements.txt`
+
 ## Data preprocessing
 Run `bash datapre_run.sh` to process all the scenarios provided by the INTERACTION dataset.
 
