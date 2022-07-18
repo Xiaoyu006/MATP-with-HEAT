@@ -2,7 +2,7 @@
 
 To obtain the sorted dataset, please refer to 
 [INTERPRET_challenge_regular_generalizability_track](https://github.com/interaction-dataset/INTERPRET_challenge_regular_generalizability_track). 
-
+```
 ├── maps
 ├── recorded_trackfiles
 │   ├── DR_CHN_Merging_ZS
@@ -20,3 +20,4 @@ To obtain the sorted dataset, please refer to
 │       └── val
 │           └── sorted
 └── submission-sample
+```
