@@ -7,7 +7,8 @@ This repo contains the code for our paper entitled "Multi-Agent Trajectory Predi
 ## Data preprocessing
 The strucutre of the raw INTERACTION Dataset can be found in `INTERACTION Dataset Tree.txt`.
 
-To obtain the sorted dataset, please refer to INTERPRET_challenge_regular_generalizability_track.
+To obtain the sorted dataset, please refer to 
+[INTERPRET_challenge_regular_generalizability_track](https://github.com/interaction-dataset/INTERPRET_challenge_regular_generalizability_track). 
 
 Run `bash datapre_run.sh` to process all the scenarios provided by the INTERACTION dataset.
 
