@@ -5,6 +5,8 @@ This repo contains the code for our paper entitled "Multi-Agent Trajectory Predi
 `pip install -r requirements.txt`
 
 ## Data preprocessing
+The strucutre of the raw INTERACTION Dataset can be found in `INTERACTION Dataset Tree.txt`.
+
 Run `bash datapre_run.sh` to process all the scenarios provided by the INTERACTION dataset.
 
 ## Models
